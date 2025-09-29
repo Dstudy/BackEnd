@@ -1,11 +1,8 @@
 {
-  "name": "mybackend",
+  "name": "vercel-backend-demo",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "api/login.js",
   "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "express": "^4.18.2"
+    "start": "vercel dev"
   }
 }
