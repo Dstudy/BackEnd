@@ -1,8 +1,7 @@
 {
   "name": "vercel-backend-demo",
   "version": "1.0.0",
+  "type": "module",
   "main": "api/login.js",
-  "scripts": {
-    "start": "vercel dev"
-  }
+  "scripts": { "start": "vercel dev" }
 }
